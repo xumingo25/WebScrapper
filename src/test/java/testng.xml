@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TGC Scrapper">
+	<test name="TGC Expansions and Editions">
+		<classes>
+			<class name="tests.DATA_PKMONTCG_EDICION_SWORD_SHIELD">
+			</class>
+			<class name="tests.DATA_PKMONTCG_EDICION_SUN_MOON">
+			</class>
+			<class name="tests.DATA_PKMONTCG_EDICION_XY">
+			</class>
+			<class name="tests.DATA_PKMONTCG_EDICION_Call_of_Legends_y_HGSS_Series">
+			</class>
+			<class name="tests.DATA_PKMONTCG_EDICION_PLATINUM">
+			</class>
+			<class name="tests.DATA_PKMONTCG_EDICION_DIAMOND_PERL">
+			</class>
+			<class name="tests.DATA_PKMONTCG_EDICION_EX">
+			</class>
+			<class name="tests.DATA_PKMONTCG_EDICION_BLACK_WHITE">
+			</class>
+		</classes>
+	</test>
+</suite>
+
